@@ -13,7 +13,9 @@ Replica de la Interfaz de Usuario: Hemos replicado la interfaz de usuario de Spo
 Reproducción de Música: Utilizamos JavaScript para simular la reproducción de música y ofrecer una experiencia interactiva.
 Diseño Responsivo: La aplicación es compatible con diversos dispositivos y tamaños de pantalla.
 <br>
+<br>
 Capturas de Pantalla
+<br>
 <br>
 ![Captura de pantalla 2023-11-17 005728](https://github.com/GaboGabito05/Clon-Spotify-Front-End/assets/143914438/b7d1264a-4f77-48f4-ba04-f597884ed51b)
 
